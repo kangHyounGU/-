@@ -22,3 +22,5 @@
 ## Projects
 ### 인터넷 쇼핑몰 만들기
 ![alt 쇼핑몰](/0920/images/ItsGood.jpg)
+
+> [자기소개서](https://kanghyoungu.github.io/Mobile-Project/)
